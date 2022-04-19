@@ -9,7 +9,7 @@
                             "clientSecretSettingName": "B2C_SECRET"
                         },
                         "openIdConnectConfiguration": {
-                            "wellKnownOpenIdConfiguration": "https://ueharatestb2c.b2clogin.com/ueharatestb2c.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_swa-susi"
+                            "wellKnownOpenIdConfiguration": "https://undefined/ueharab2clab.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_swa-susi"
                         }
                     },
                     "login": {
